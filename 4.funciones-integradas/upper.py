@@ -1,0 +1,1 @@
+# Convierte una cadena a mayúsculas

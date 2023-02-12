@@ -1,0 +1,7 @@
+mi_set = set()
+mi_set.add(1)
+mi_set.add(1)
+mi_set.add(2)
+mi_set.add(3)
+mi_set.add(4)
+print(mi_set)
